@@ -5,7 +5,7 @@ Welcome! This repository provides an overview of my other repositories and the p
 ## Projects
 
 ### Repository 1: [my-leetcode](https://github.com/Klay24-Huang/my-leetcode)
-**Description:** This repository contains my solutions to LeetCode problems. The solutions are implemented in four programming languages: Go, C#, JavaScript, and Python.<br>
+**Description:** This repository contains my solutions to LeetCode problems. The solutions are implemented in four programming languages: Go, C#, JavaScript, and Python.<br><br>
 **Key Features:** Focus on algorithmic problem solving with comprehensive unit tests to ensure correctness and reliability.
 
 ## Contact
