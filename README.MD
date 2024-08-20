@@ -1,6 +1,6 @@
 # Projects Overview
 
-Welcome to my GitHub profile! This repository provides an overview of my other repositories and the projects I have worked on.
+Welcome! This repository provides an overview of my other repositories and the projects I have worked on.
 
 ## Projects
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! This repository provides an overview of my other r
 
 ## Contact
 
-Feel free to reach out if you have any questions or would like to discuss my projects further!
+Feel free to reach out if you have any questions or would like to discuss with me!
 
-- [LinkedIn](your_linkedin_profile)
-- [Email](your_email_address)
+- [CakeResume](https://www.cakeresume.com/bnbexpede13)
+- [Email](wkus963@gmail.com)
