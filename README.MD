@@ -4,20 +4,9 @@ Welcome! This repository provides an overview of my other repositories and the p
 
 ## Projects
 
-### Repository 1: [Project Name](link_to_repository)
-**Description:** A brief description of what this project is about.
-**Technologies Used:** List the main technologies or tools used in the project.
-**Key Features:** Highlight some key features or functionalities of the project.
-
-### Repository 2: [Project Name](link_to_repository)
-**Description:** A brief description of what this project is about.
-**Technologies Used:** List the main technologies or tools used in the project.
-**Key Features:** Highlight some key features or functionalities of the project.
-
-### Repository 3: [Project Name](link_to_repository)
-**Description:** A brief description of what this project is about.
-**Technologies Used:** List the main technologies or tools used in the project.
-**Key Features:** Highlight some key features or functionalities of the project.
+### Repository 1: [my-leetcode](https://github.com/Klay24-Huang/my-leetcode)
+**Description:** This repository contains my solutions to LeetCode problems. The solutions are implemented in four programming languages: Go, C#, JavaScript, and Python.<br>
+**Key Features:** Focus on algorithmic problem solving with comprehensive unit tests to ensure correctness and reliability.
 
 ## Contact
 
